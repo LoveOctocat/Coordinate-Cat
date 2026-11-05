@@ -1,3 +1,47 @@
-![Metrics](https://metrics.lecoq.io/Coordinate-Cat?template=classic&isocalendar=1&languages=1&stars=1&achievements=1&pagespeed=1&lines=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=8&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FTokyo&config.display=large&config.padding=0%25)
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
-If you don't see the above svg, just reload a few times.
+
+<details>
+<summary>more</summary>
+<!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
+<table width="2000">
+<tr>
+<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
+</tr>
+</table>
+<!-- <img align="right" width="45%" alt="🦑" src="/charts.svg">
+
+<img align="left" width="50%" alt="🦑" src="/anilist.svg">
+<img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
+
+<img align="left" width="45%" alt="🦑" src="/isocalendar.svg">
+<img align="right" width="45%" alt="🦑" src="/lines.svg">
+<img align="right" width="45%" alt="🦑" src="/icons.svg">
+
+<img align="left" width="50%" alt="🦑" src="/achievements.svg">
+<img align="right" width="45%" alt="🦑" src="/stars.svg"> -->
+
+<table>
+<tr>
+<td><img align="" width="" alt="🦑" src="/bottom.svg"></td>
+<!-- <td><img align="" width="" alt="🦑" src="/asuka.gif"></td> -->
+<td><img align="" width="" height="" alt="🦑" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"></td>
+</tr>
+</table>
+
+<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
+<table width="2000">
+<tr>
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<!-- <td>![](https://github-trophies.vercel.app/?username=Coordinate-Cat&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
+</tr>
+</table>
+
+<!-- <table>
+<tr>
+<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
+</tr>
+</table> -->
+
+</details>
